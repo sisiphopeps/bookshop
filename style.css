@@ -1,4 +1,10 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Noto+Sans+SC:wght@100&family=Tangerine:wght@700&display=swap');
+* {
+    font-family: 'Cinzel', serif;
+    font-family: 'Noto Sans SC', sans-serif;
+   
+}
 .home{
     background-image: url(https://i.postimg.cc/nhygNLCB/download-bg.jpg);
     background-repeat: no-repeat;
@@ -25,6 +31,10 @@ background-repeat: no-repeat;
     /* padding: 15%; */
 }
 
+#cardo {
+    background-color: transparent;
+    width: 700px;
+}
 .imgs{
     width: 167px !important;
 }
@@ -33,6 +43,8 @@ background-repeat: no-repeat;
     background-color:antiquewhite;background-repeat: no-repeat;
     min-height:100vh;
     max-width: 100%;
+    text-align: center;
+   
 }
 
 .bla {
