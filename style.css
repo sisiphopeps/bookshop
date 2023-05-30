@@ -1,14 +1,44 @@
+
 .home{
     background-image: url(https://i.postimg.cc/nhygNLCB/download-bg.jpg);
     background-repeat: no-repeat;
-    /* background-size:cover; */
-    height: 100vh;
-    /* width:100%; */
+    min-height:100vh;
+    max-width: 100%;
     background-position: center;
     background-size: cover;
 }
 
-.container {
+.container1 {
     text-align: center;
     padding: 20%;
 }
+
+.shopping {
+background-color:antiquewhite;
+background-repeat: no-repeat;
+    min-height:100vh;
+    max-width: 100%;
+}
+
+.card{
+    margin: 20px;
+    /* padding: 15%; */
+}
+
+.imgs{
+    width: 167px !important;
+}
+
+.aboutus {
+    background-color:antiquewhite;background-repeat: no-repeat;
+    min-height:100vh;
+    max-width: 100%;
+}
+
+.bla {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+
+
